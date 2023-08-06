@@ -12,7 +12,7 @@ ExamSeat project in java to add/check seats to passengers
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
+
 
 all project in java
 

@@ -13,7 +13,7 @@ ExamSeat project in java to add/check seats to passengers
 - [License](#license)
 
 
-
+## About
 all project in java
 
 ## Prerequisites

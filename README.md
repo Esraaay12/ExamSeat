@@ -2,7 +2,7 @@
 # [ExamSeat]
 
 
-ExamSeat project in java to add/check seats to passengers 
+
 ## Table of Contents
 
 - [About](#about)

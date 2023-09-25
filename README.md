@@ -13,7 +13,7 @@ ExamSeat project in java to add/check seats
 
 
 ## About
-
+all project in java
 
 ## Prerequisites
 

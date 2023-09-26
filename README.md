@@ -1,7 +1,7 @@
 # ExamSeat.
 
 
-
+ExamSeat project in java to add/check seats 
 ## Table of Contents
 
 - [About](#about)
